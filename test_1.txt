@@ -10,4 +10,6 @@
                2 Dir(s)  37.174.534.144 bytes free
 Just for test 12 change.
 
+<<<<<<< HEAD
 Temp is added 55
+
